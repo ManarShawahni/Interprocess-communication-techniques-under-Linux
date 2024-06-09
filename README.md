@@ -21,7 +21,7 @@ https://github.com/ManarShawahni/Interprocess-communication-techniques-under-Lin
   
 ## languauge Used
 
-- C (for the main application and IPC mechanisms) - Code 100%
+- C (for the main application and IPC mechanisms) - Code 100% Completed
 - OpenGL (for visualization) - 95% Completed
 
 ## How to configure / run the program
