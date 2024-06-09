@@ -16,18 +16,22 @@ This project simulates the distribution of wheat flour aid bags in northern Gaza
 - Model the impact of missile attacks on containers.
 - Manage relief workers' tasks and risks associated with their operations.
 - Track starvation levels of families and prioritize aid distribution.
+
+https://github.com/ManarShawahni/Interprocess-communication-techniques-under-Linux/assets/137074063/bbbdb6e3-c520-4981-afd2-6240e8f2a558
   
 ## languauge Used
 
-- C (for the main application and IPC mechanisms)
-- OpenGL (for visualization)
+- C (for the main application and IPC mechanisms) - Code 100%
+- OpenGL (for visualization) - 95% Completed
 
 ## How to configure / run the program
 - Compile the Code
   make
-
   
 - Run the Program
+  ./workers a b c
+  open two terminals
+  ./plane
   ./main
 
 ## Contributers
