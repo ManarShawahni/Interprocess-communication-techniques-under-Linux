@@ -1,7 +1,7 @@
 # Interprocess-communication-techniques-under-Linux
 
 <p align="center">
-<img src="https://github.com/ManarShawahni/Interprocess-communication-techniques-under-Linux/assets/137074063/d8bf12ac-ad34-4671-9515-b481cee34e38" width="500">
+<img src="https://github.com/ManarShawahni/Interprocess-communication-techniques-under-Linux/assets/137074063/d8bf12ac-ad34-4671-9515-b481cee34e38">
 </p>
 
 
