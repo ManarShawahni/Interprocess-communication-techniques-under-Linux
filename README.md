@@ -25,14 +25,24 @@ https://github.com/ManarShawahni/Interprocess-communication-techniques-under-Lin
 - OpenGL (for visualization) - 95% Completed
 
 ## How to configure / run the program
+
 - Compile the Code
-  make
-  
+```bash
+make
+```
 - Run the Program
-  ./workers a b c
-  open two terminals
-  ./plane
-  ./main
+ ```bash
+ ./workers a b c
+ ```
+  - Then, Open two terminals
+    - In First terminal:
+    ```bash
+    ./plane
+    ```
+    - In Second terminal:
+    ```bash
+    ./main
+    ```
 
 ## Contributers
 
