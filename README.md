@@ -1,5 +1,10 @@
 # Interprocess-communication-techniques-under-Linux
 
+<p align="center">
+<img src="https://github.com/ManarShawahni/Interprocess-communication-techniques-under-Linux/assets/137074063/d8bf12ac-ad34-4671-9515-b481cee34e38" width="500">
+</p>
+
+
 ## Overview
 
 This project simulates the distribution of wheat flour aid bags in northern Gaza using a multi-processing application under Linux. So that the simulation involves cargo planes parachuting wheat flour containers, relief workers collecting, splitting, and distributing these containers, and occupation forces attempting to disrupt the operation.
